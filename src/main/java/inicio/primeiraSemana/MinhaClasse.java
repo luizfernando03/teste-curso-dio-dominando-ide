@@ -1,4 +1,4 @@
-package br.com.dio.model;
+package inicio.primeiraSemana;
 
 public class MinhaClasse {
 

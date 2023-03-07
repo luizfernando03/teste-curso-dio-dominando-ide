@@ -1,4 +1,4 @@
-package br.com.dio.model;
+package inicio.primeiraSemana;
 
 public class BoletimEstudantil {
     public static void main(String[] args) {
@@ -9,7 +9,6 @@ public class BoletimEstudantil {
             System.out.println("PROVA FINAL");
         else
             System.out.println("APROVADO");
-
 
     }
 }
